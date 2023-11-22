@@ -1,8 +1,6 @@
 # automatic-train
-kk
-# ideal-memory
 lol
-this my html
+
 HTML>
 <HEAD><TITTLE>
 </TITTLE>
@@ -23,6 +21,7 @@ HTML>
 <H2><B>HTML SH*TS</B></H2>
 <LI> MORNING</LI>
 <LI> BRAJFAST</LI>
-    <img src="https://media.evo.co.uk/image/private/s--FDIc9h2---/v1584722625/evo/2020/03/Ferrari%20F40%20icon-14.jpg" alt="Car Image">
+    <img src="https://media.evo.co.uk/image/private/s--FDIc9h2---/v1584722625/evo/2020/03/Ferrari%20F40%20icon-14.jpg" alt="Car Image"> 
+        https://skmedix.pl
 </body>
 </html>
