@@ -4,7 +4,10 @@ lol
 HTML>
 <HEAD><TITTLE>
 </TITTLE>
-<style>
+
+</HEAD>
+<BODY BG COLOUR="BLUE">
+        <style>
         body {
             background-color: blue ;
         }
@@ -16,8 +19,6 @@ HTML>
             height: auto;
         }
     </style>
-</HEAD>
-<BODY BG COLOUR="BLUE">
 <H2><B>HTML SH*TS</B></H2>
 <LI> MORNING</LI>
 <LI> BRAJFAST</LI>
