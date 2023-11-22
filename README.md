@@ -22,7 +22,7 @@ HTML>
 <H2><B>HTML SH*TS</B></H2>
 <LI> MORNING</LI>
 <LI> BRAJFAST</LI>
-    <img src="https://media.evo.co.uk/image/private/s--FDIc9h2---/v1584722625/evo/2020/03/Ferrari%20F40%20icon-14.jpg" alt="Car Image"> 
+    <img src="https://th.bing.com/th/id/OIP.ZY_v1HCe6gcz0Yw-QcPMLAHaJ0?rs=1&pid=ImgDetMain.jpeg" alt="anime girl image"> 
         https://skmedix.pl
 </body>
 </html>
